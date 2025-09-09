@@ -47,7 +47,7 @@
 ## 🔥 Featured Projects
 ### 🚖 CabConnect
 Geospatial ride-hailing platform with **JWT, Spring Boot, PostgreSQL, OSRM**  
-🔗 [Repo](https://github.com/sachinpalcs/cabConnect-project)  
+🔗 [Repo](https://github.com/sachinpalcs/cabConnect.git)  
 
 ### 🗓 Employee Leave Tracker
 Leave management with **Kafka, JWT RBAC, Docker, MySQL**  
@@ -55,7 +55,7 @@ Leave management with **Kafka, JWT RBAC, Docker, MySQL**
 
 ### 🌐 Networking Platform
 Microservices + **Kafka + Kubernetes + Neo4j** for real-time feeds  
-🔗 [Repo](https://github.com/sachinpalcs/Networking-Plateform-project)  
+🔗 [Repo](https://github.com/sachinpalcs/Networking-Platform.git)  
 
 ---
 
