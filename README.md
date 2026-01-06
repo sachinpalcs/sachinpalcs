@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&width=700&lines=Backend+Engineer;Spring+Boot+%7C+Java+Developer;Microservices+%7C+Distributed+Systems;Cloud+%7C+Docker+%7C+Kubernetes;Open+Source+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&width=700&lines=;Spring+Boot+%7Full Stack Developer+Java+Developer;Microservices+%7C+Distributed+Systems;Cloud+%7C+Docker+%7C+Kubernetes;Open+Source+Enthusiast" alt="Typing SVG"/>
 </p>
 
 🎓 MCA @ **NIT Raipur (2023–2026)**  
